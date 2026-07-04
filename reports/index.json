@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260704-202359-7xj1",
+      "title": "Salamander West",
+      "commanders": [
+        "Salamander West"
+      ],
+      "dateStart": "2026-07-04T17:23:59.000Z",
+      "dateEnd": "2026-07-04T17:49:40.000Z",
+      "dateLabel": "04/07/2026, 20:23:59 - 04/07/2026, 20:49:40",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260704-202359-7xj1",
+      "summary": {
+        "borderlandsPct": 0.125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260703-051453-0e5d",
       "title": "Tràsh Pandà",
       "commanders": [
