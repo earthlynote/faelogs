@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-041015-pn70",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "dateStart": "2026-07-05T01:10:15.000Z",
+      "dateEnd": "2026-07-05T03:21:51.000Z",
+      "dateLabel": "05/07/2026, 04:10:15 - 05/07/2026, 06:21:51",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260705-041015-pn70",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 46,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260704-073025-v1z4",
       "title": "Tràsh Pandà",
       "commanders": [
