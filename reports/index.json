@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-022941-jaed",
+      "title": "Kief Protec, Prosecute",
+      "commanders": [
+        "Kief Protec",
+        "Prosecute"
+      ],
+      "dateStart": "2026-07-14T23:29:41.000Z",
+      "dateEnd": "2026-07-15T02:20:40.000Z",
+      "dateLabel": "15/07/2026, 02:29:41 - 15/07/2026, 05:20:40",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260715-022941-jaed",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260712-063140-t9as",
       "title": "Tràsh Pandà",
       "commanders": [
