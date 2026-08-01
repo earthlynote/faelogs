@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-064555-zva6",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "dateStart": "2026-08-01T03:45:55.000Z",
+      "dateEnd": "2026-08-01T04:39:33.000Z",
+      "dateLabel": "01/08/2026, 06:45:55 - 01/08/2026, 07:39:33",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260801-064555-zva6",
+      "summary": {
+        "borderlandsPct": 0.09523809523809523,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260726-052101-vlwy",
       "title": "Tràsh Pandà",
       "commanders": [
