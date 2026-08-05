@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-185212-bpeq",
+      "title": "Fàelyn",
+      "commanders": [
+        "Fàelyn"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-05T15:52:12.000Z",
+      "dateEnd": "2026-08-05T16:46:37.000Z",
+      "dateLabel": "05/08/2026, 18:52:12 - 05/08/2026, 19:46:37",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260805-185212-bpeq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260802-062708-wbou",
       "title": "Tràsh Pandà",
       "commanders": [
