@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-190136-fbkp",
+      "title": "Faevoritism",
+      "commanders": [
+        "Faevoritism"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-08-14T16:01:36.000Z",
+      "dateEnd": "2026-08-14T17:36:51.000Z",
+      "dateLabel": "14/08/2026, 19:01:36 - 14/08/2026, 20:36:51",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260814-190136-fbkp",
+      "summary": {
+        "borderlandsPct": 0.07142857142857142,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260809-072202-mxep",
       "title": "Tràsh Pandà",
       "commanders": [
