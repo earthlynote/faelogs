@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-041809-nqr8",
+      "title": "Baltt The Old",
+      "commanders": [
+        "Baltt The Old"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-08-17T01:18:09.000Z",
+      "dateEnd": "2026-08-17T02:14:11.000Z",
+      "dateLabel": "17/08/2026, 04:18:09 - 17/08/2026, 05:14:11",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260817-041809-nqr8",
+      "summary": {
+        "borderlandsPct": 0.43333333333333335,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260816-041539-83wa",
       "title": "Vasnia",
       "commanders": [
