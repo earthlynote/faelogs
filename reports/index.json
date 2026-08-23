@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-050906-acki",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-08-23T02:09:06.000Z",
+      "dateEnd": "2026-08-23T02:57:27.261Z",
+      "dateLabel": "23/08/2026, 05:09:06 - 23/08/2026, 05:57:27",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260823-050906-acki",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260822-060211-2asx",
       "title": "Tràsh Pandà",
       "commanders": [
