@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-053157-bmd8",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-05T02:31:57.000Z",
+      "dateEnd": "2026-09-05T03:24:18.234Z",
+      "dateLabel": "05/09/2026, 05:31:57 - 05/09/2026, 06:24:18",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260905-053157-bmd8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260831-050740-lwrw",
       "title": "Asharom",
       "commanders": [
