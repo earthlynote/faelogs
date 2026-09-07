@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-195913-tfdv",
+      "title": "Saladmancer West, Salamander West",
+      "commanders": [
+        "Saladmancer West",
+        "Salamander West"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-09-07T16:59:13.000Z",
+      "dateEnd": "2026-09-07T17:55:23.526Z",
+      "dateLabel": "07/09/2026, 19:59:13 - 07/09/2026, 20:55:23",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260907-195913-tfdv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260905-053157-bmd8",
       "title": "Asharom",
       "commanders": [
