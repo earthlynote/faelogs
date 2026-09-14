@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260913-231658-a5fb",
+      "title": "Asharom, Envious Mesmious",
+      "commanders": [
+        "Asharom",
+        "Envious Mesmious"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-13T20:16:58.000Z",
+      "dateEnd": "2026-09-14T01:37:30.906Z",
+      "dateLabel": "13/09/2026, 23:16:58 - 14/09/2026, 04:37:30",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260913-231658-a5fb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 51,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260907-195913-tfdv",
       "title": "Saladmancer West, Salamander West",
       "commanders": [
