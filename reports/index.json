@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-033954-k70n",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-14T00:39:54.000Z",
+      "dateEnd": "2026-09-14T03:46:00.809Z",
+      "dateLabel": "14/09/2026, 03:39:54 - 14/09/2026, 06:46:00",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260914-033954-k70n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260913-231658-skvw",
       "title": "Asharom, Envious Mesmious",
       "commanders": [
