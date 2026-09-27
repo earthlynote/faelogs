@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260926-050816-egfb",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-26T02:08:16.000Z",
+      "dateEnd": "2026-09-27T00:25:02.250Z",
+      "dateLabel": "26/09/2026, 05:08:16 - 27/09/2026, 03:25:02",
+      "url": "https://earthlynote.github.io/faelogs/?report=20260926-050816-egfb",
+      "summary": {
+        "borderlandsPct": 0.45555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 49,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260920-051419-1dpr",
       "title": "Asharom",
       "commanders": [
